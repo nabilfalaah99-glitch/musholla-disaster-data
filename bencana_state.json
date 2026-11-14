@@ -1,4 +1,9 @@
 {
-  "updated_at": null,
-  "items": []
+    "active": false,
+    "status": "inactive",
+    "updated_at": "2026-11-14 20:33:27",
+    "last_checked_at": "2026-11-14 20:33:27",
+    "discovery_hours": 24,
+    "total_videos": 0,
+    "items": []
 }
