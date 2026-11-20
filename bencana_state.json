@@ -1,10 +1,10 @@
 {
     "active": true,
     "status": "active",
-    "updated_at": "2026-11-18 15:51:19",
-    "last_checked_at": "2026-11-18 15:51:19",
+    "updated_at": "2026-11-20 10:57:04",
+    "last_checked_at": "2026-11-20 10:57:04",
     "discovery_hours": 24,
-    "total_videos": 25,
+    "total_videos": 31,
     "resolved_events": [],
     "items": [
         {
@@ -23,7 +23,7 @@
             "validated": true,
             "recovery_status": "ongoing",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:17"
+            "recovery_checked_at": "2026-11-20 10:53:19"
         },
         {
             "nama_bencana": "Erupsi Gunung Karangetang",
@@ -41,7 +41,7 @@
             "validated": true,
             "recovery_status": "ongoing",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:17"
+            "recovery_checked_at": "2026-11-20 10:53:19"
         },
         {
             "nama_bencana": "Erupsi Gunung Karangetang",
@@ -59,7 +59,7 @@
             "validated": true,
             "recovery_status": "ongoing",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:17"
+            "recovery_checked_at": "2026-11-20 10:53:19"
         },
         {
             "nama_bencana": "Erupsi Gunung Karangetang",
@@ -77,7 +77,7 @@
             "validated": true,
             "recovery_status": "ongoing",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:17"
+            "recovery_checked_at": "2026-11-20 10:53:19"
         },
         {
             "nama_bencana": "Erupsi Gunung Karangetang",
@@ -95,7 +95,7 @@
             "validated": true,
             "recovery_status": "ongoing",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:17"
+            "recovery_checked_at": "2026-11-20 10:53:19"
         },
         {
             "nama_bencana": "Gempa Bumi M 7,1 Maluku",
@@ -113,7 +113,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:18"
+            "recovery_checked_at": "2026-11-20 10:53:20"
         },
         {
             "nama_bencana": "Gempa Bumi M 7,1 Maluku",
@@ -131,7 +131,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:18"
+            "recovery_checked_at": "2026-11-20 10:53:20"
         },
         {
             "nama_bencana": "Gempa Bumi M 7,1 Maluku",
@@ -149,7 +149,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:18"
+            "recovery_checked_at": "2026-11-20 10:53:20"
         },
         {
             "nama_bencana": "Gempa Bumi M 7,1 Maluku",
@@ -167,7 +167,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:18"
+            "recovery_checked_at": "2026-11-20 10:53:20"
         },
         {
             "nama_bencana": "Gempa Bumi M 7,1 Maluku",
@@ -185,7 +185,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-18 15:51:18"
+            "recovery_checked_at": "2026-11-20 10:53:20"
         },
         {
             "nama_bencana": "Gempa bumi",
@@ -201,8 +201,9 @@
             "thumbnail": "https://i.ytimg.com/vi/eAONGlvbSLQ/hqdefault.jpg",
             "published_at": "2026-08-15T01:13:29Z",
             "validated": true,
-            "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:18"
+            "recovery_status": "ongoing",
+            "added_at": "2026-11-18 15:51:18",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Gempa bumi",
@@ -218,8 +219,9 @@
             "thumbnail": "https://i.ytimg.com/vi/sp6ZMz_y_DM/hqdefault.jpg",
             "published_at": "2026-08-20T09:00:01Z",
             "validated": true,
-            "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:18"
+            "recovery_status": "ongoing",
+            "added_at": "2026-11-18 15:51:18",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Gempa bumi",
@@ -235,8 +237,9 @@
             "thumbnail": "https://i.ytimg.com/vi/PByGGsKYiIQ/hqdefault.jpg",
             "published_at": "2026-08-15T09:21:19Z",
             "validated": true,
-            "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:18"
+            "recovery_status": "ongoing",
+            "added_at": "2026-11-18 15:51:18",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Gempa bumi",
@@ -252,8 +255,9 @@
             "thumbnail": "https://i.ytimg.com/vi/9mRWCMBEJoQ/hqdefault.jpg",
             "published_at": "2026-08-15T06:30:32Z",
             "validated": true,
-            "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:18"
+            "recovery_status": "ongoing",
+            "added_at": "2026-11-18 15:51:18",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Gempa bumi",
@@ -269,8 +273,9 @@
             "thumbnail": "https://i.ytimg.com/vi/Zg2bQtWz0Vk/hqdefault.jpg",
             "published_at": "2026-09-21T12:25:43Z",
             "validated": true,
-            "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:18"
+            "recovery_status": "ongoing",
+            "added_at": "2026-11-18 15:51:18",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Erupsi gunung api",
@@ -287,7 +292,8 @@
             "published_at": "2025-01-18T15:01:18Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Erupsi gunung api",
@@ -304,7 +310,8 @@
             "published_at": "2026-09-01T09:57:57Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Erupsi gunung api",
@@ -321,7 +328,8 @@
             "published_at": "2026-09-01T14:37:54Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Erupsi gunung api",
@@ -338,7 +346,8 @@
             "published_at": "2024-05-11T02:28:47Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Erupsi gunung api",
@@ -355,7 +364,8 @@
             "published_at": "2025-02-06T07:00:02Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:54:42"
         },
         {
             "nama_bencana": "Banjir",
@@ -372,7 +382,8 @@
             "published_at": "2022-11-04T08:12:26Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:57:03"
         },
         {
             "nama_bencana": "Banjir",
@@ -389,7 +400,8 @@
             "published_at": "2023-05-08T04:07:20Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:57:03"
         },
         {
             "nama_bencana": "Banjir",
@@ -406,7 +418,8 @@
             "published_at": "2023-11-22T04:57:18Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:57:03"
         },
         {
             "nama_bencana": "Banjir",
@@ -423,7 +436,8 @@
             "published_at": "2023-12-01T12:58:54Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:57:03"
         },
         {
             "nama_bencana": "Banjir",
@@ -440,7 +454,110 @@
             "published_at": "2020-02-12T08:49:25Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-18 15:51:19"
+            "added_at": "2026-11-18 15:51:19",
+            "recovery_checked_at": "2026-11-20 10:57:03"
+        },
+        {
+            "nama_bencana": "Erupsi Gunung Karangetang",
+            "lokasi": "Gunung Karangetang",
+            "kategori": "erupsi gunung api",
+            "ringkasan": "Gunung Karangetang mengalami erupsi dengan tinggi kolom abu mencapai 1.000 meter.",
+            "youtube_id": "duZJUszCF_I",
+            "video_id": "duZJUszCF_I",
+            "judul_video": "Karangetang Muntahkan Lahar dan Awan Panas",
+            "channel": "BeritaSatu",
+            "youtube_url": "https://www.youtube.com/watch?v=duZJUszCF_I",
+            "embed_url": "https://www.youtube-nocookie.com/embed/duZJUszCF_I",
+            "thumbnail": "https://i.ytimg.com/vi/duZJUszCF_I/hqdefault.jpg",
+            "published_at": "2015-05-09T02:43:50Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-20 10:57:04"
+        },
+        {
+            "nama_bencana": "Erupsi Gunung Karangetang",
+            "lokasi": "Gunung Karangetang",
+            "kategori": "erupsi gunung api",
+            "ringkasan": "Gunung Karangetang mengalami erupsi dengan tinggi kolom abu mencapai 1.000 meter.",
+            "youtube_id": "ozNdTekAVa8",
+            "video_id": "ozNdTekAVa8",
+            "judul_video": "Gunung Karangetang Luncurkan Lava Pijar",
+            "channel": "KOMPASTV",
+            "youtube_url": "https://www.youtube.com/watch?v=ozNdTekAVa8",
+            "embed_url": "https://www.youtube-nocookie.com/embed/ozNdTekAVa8",
+            "thumbnail": "https://i.ytimg.com/vi/ozNdTekAVa8/hqdefault.jpg",
+            "published_at": "2019-09-27T09:05:25Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-20 10:57:04"
+        },
+        {
+            "nama_bencana": "Gempa Bumi Maluku Tenggara",
+            "lokasi": "Maluku Tenggara",
+            "kategori": "gempa bumi",
+            "ringkasan": "Gempa bumi berkekuatan magnitudo 3.8 mengguncang wilayah Maluku Tenggara.",
+            "youtube_id": "th13lQvB2No",
+            "video_id": "th13lQvB2No",
+            "judul_video": "GEGER‼️ AIR LAUT TIBA TIBA NAIK SETELAH GEMPA M7,1 GUNCANG MALUKU HARI INI",
+            "channel": "BENCANA POPULER ID",
+            "youtube_url": "https://www.youtube.com/watch?v=th13lQvB2No",
+            "embed_url": "https://www.youtube-nocookie.com/embed/th13lQvB2No",
+            "thumbnail": "https://i.ytimg.com/vi/th13lQvB2No/hqdefault.jpg",
+            "published_at": "2026-11-17T14:03:38Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-20 10:57:04"
+        },
+        {
+            "nama_bencana": "Gempa Bumi Maluku Tenggara",
+            "lokasi": "Maluku Tenggara",
+            "kategori": "gempa bumi",
+            "ringkasan": "Gempa bumi berkekuatan magnitudo 3.8 mengguncang wilayah Maluku Tenggara.",
+            "youtube_id": "83kWdt9CZhQ",
+            "video_id": "83kWdt9CZhQ",
+            "judul_video": "GEMPA DAHSYAT MAGNITUDO 7,1 GUNCANG MALUKU TENGGARA, BMKG PASTIKAN TIDAK BERPOTENSI TSUNAMI",
+            "channel": "Tribunnews Manado",
+            "youtube_url": "https://www.youtube.com/watch?v=83kWdt9CZhQ",
+            "embed_url": "https://www.youtube-nocookie.com/embed/83kWdt9CZhQ",
+            "thumbnail": "https://i.ytimg.com/vi/83kWdt9CZhQ/hqdefault.jpg",
+            "published_at": "2026-11-17T00:15:02Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-20 10:57:04"
+        },
+        {
+            "nama_bencana": "Gempa Bumi Maluku Tenggara",
+            "lokasi": "Maluku Tenggara",
+            "kategori": "gempa bumi",
+            "ringkasan": "Gempa bumi berkekuatan magnitudo 3.8 mengguncang wilayah Maluku Tenggara.",
+            "youtube_id": "uKz9mS43KAQ",
+            "video_id": "uKz9mS43KAQ",
+            "judul_video": "Gempa M7,1 Guncang Maluku Tenggara, Warga Panik Berhamburan Keluar Rumah #ruangsumbar #ruangsumbartv",
+            "channel": "Ruang Sumbar TV",
+            "youtube_url": "https://www.youtube.com/watch?v=uKz9mS43KAQ",
+            "embed_url": "https://www.youtube-nocookie.com/embed/uKz9mS43KAQ",
+            "thumbnail": "https://i.ytimg.com/vi/uKz9mS43KAQ/hqdefault.jpg",
+            "published_at": "2026-11-18T12:04:02Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-20 10:57:04"
+        },
+        {
+            "nama_bencana": "Gempa Bumi Maluku Tenggara",
+            "lokasi": "Maluku Tenggara",
+            "kategori": "gempa bumi",
+            "ringkasan": "Gempa bumi berkekuatan magnitudo 3.8 mengguncang wilayah Maluku Tenggara.",
+            "youtube_id": "ttsVkahB3Oc",
+            "video_id": "ttsVkahB3Oc",
+            "judul_video": "GEMPA MAGNITUDO 7,1 GUNCANG MALUKU TENGGARA! Getaran Terasa hingga Papua dan Sorong | IDXC UPDATE",
+            "channel": "IDX CHANNEL",
+            "youtube_url": "https://www.youtube.com/watch?v=ttsVkahB3Oc",
+            "embed_url": "https://www.youtube-nocookie.com/embed/ttsVkahB3Oc",
+            "thumbnail": "https://i.ytimg.com/vi/ttsVkahB3Oc/hqdefault.jpg",
+            "published_at": "2026-11-17T01:48:11Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-20 10:57:04"
         }
     ]
 }
