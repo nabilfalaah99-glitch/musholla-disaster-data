@@ -2,7 +2,21 @@
     "status": "success",
     "source": "BMKG",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "updated_at": "2026-11-21T00:11:30+07:00",
-    "has_alert": false,
-    "items": []
+    "updated_at": "2026-11-21T07:54:54+07:00",
+    "has_alert": true,
+    "items": [
+        {
+            "title": "Hujan Lebat disertai Petir di Jakarta",
+            "event": "Hujan Lebat dan Petir",
+            "description": "Hujan lebat disertai petir akan terjadi pada 21 November 2026, 05:20 WIB di sebagian wilayah Jakarta, khususnya di TANJUNGSARI.\n Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.\n Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.\n Kondisi diperkirakan dapat berlangsung hingga 21 November 2026, 08:00 WIB.",
+            "area": "Jakarta",
+            "effective": "2026-11-21T05:20:00+07:00",
+            "expires": "2026-11-21T08:00:00+07:00",
+            "severity": "Moderate",
+            "urgency": "Immediate",
+            "certainty": "Observed",
+            "source": "BMKG",
+            "source_url": "https://nowcasting.bmkg.go.id/infografis/CJK/2026/11/21/infografis.jpg"
+        }
+    ]
 }
