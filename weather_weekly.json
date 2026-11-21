@@ -2,77 +2,77 @@
     "status": "success",
     "source": "Open-Meteo",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "updated_at": "2026-11-21T15:08:35+07:00",
+    "updated_at": "2026-11-21T23:20:34+07:00",
     "items": [
         {
             "date": "2026-11-21",
             "day": "Sabtu",
-            "condition": "Badai petir",
-            "icon": "fa-cloud-bolt",
+            "condition": "Hujan lokal sedang",
+            "icon": "fa-cloud-showers-heavy",
             "temperature_min": 24.8,
             "temperature_max": 31.9,
             "rain_probability": 100,
-            "wind_speed": 8.2
+            "wind_speed": 11.4
         },
         {
             "date": "2026-11-22",
             "day": "Minggu",
             "condition": "Hujan lokal sedang",
             "icon": "fa-cloud-showers-heavy",
-            "temperature_min": 23.3,
-            "temperature_max": 31.6,
-            "rain_probability": 90,
-            "wind_speed": 7.4
+            "temperature_min": 23.9,
+            "temperature_max": 32.1,
+            "rain_probability": 93,
+            "wind_speed": 8.5
         },
         {
             "date": "2026-11-23",
             "day": "Senin",
-            "condition": "Hujan lokal sedang",
-            "icon": "fa-cloud-showers-heavy",
-            "temperature_min": 24.2,
-            "temperature_max": 31.1,
-            "rain_probability": 96,
-            "wind_speed": 10.7
+            "condition": "Hujan lokal ringan",
+            "icon": "fa-cloud-sun-rain",
+            "temperature_min": 24.7,
+            "temperature_max": 31.2,
+            "rain_probability": 94,
+            "wind_speed": 8.1
         },
         {
             "date": "2026-11-24",
             "day": "Selasa",
-            "condition": "Hujan lokal ringan",
-            "icon": "fa-cloud-sun-rain",
+            "condition": "Hujan lokal sedang",
+            "icon": "fa-cloud-showers-heavy",
             "temperature_min": 24.2,
             "temperature_max": 30.9,
             "rain_probability": 90,
-            "wind_speed": 9.6
+            "wind_speed": 5.5
         },
         {
             "date": "2026-11-25",
             "day": "Rabu",
-            "condition": "Gerimis lebat",
+            "condition": "Hujan lokal sedang",
             "icon": "fa-cloud-showers-heavy",
-            "temperature_min": 23.9,
-            "temperature_max": 29.9,
-            "rain_probability": 92,
-            "wind_speed": 9.1
+            "temperature_min": 24.1,
+            "temperature_max": 29.8,
+            "rain_probability": 90,
+            "wind_speed": 8.2
         },
         {
             "date": "2026-11-26",
             "day": "Kamis",
-            "condition": "Gerimis lebat",
-            "icon": "fa-cloud-showers-heavy",
-            "temperature_min": 24.8,
-            "temperature_max": 30.6,
-            "rain_probability": 96,
-            "wind_speed": 4.9
+            "condition": "Hujan lokal ringan",
+            "icon": "fa-cloud-sun-rain",
+            "temperature_min": 24.2,
+            "temperature_max": 29.4,
+            "rain_probability": 98,
+            "wind_speed": 5
         },
         {
             "date": "2026-11-27",
             "day": "Jumat",
             "condition": "Gerimis",
             "icon": "fa-cloud-rain",
-            "temperature_min": 23.8,
-            "temperature_max": 31.3,
-            "rain_probability": 92,
-            "wind_speed": 10.5
+            "temperature_min": 24.4,
+            "temperature_max": 30.9,
+            "rain_probability": 94,
+            "wind_speed": 9.5
         }
     ]
 }

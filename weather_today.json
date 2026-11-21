@@ -3,79 +3,15 @@
     "source": "Open-Meteo",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
     "date": "2026-11-21",
-    "updated_at": "2026-11-21T15:08:35+07:00",
+    "updated_at": "2026-11-21T23:20:34+07:00",
     "items": [
         {
-            "time": "15:00",
-            "temperature": 29.9,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 98,
-            "humidity": 76
-        },
-        {
-            "time": "16:00",
-            "temperature": 29.2,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 100,
-            "humidity": 78
-        },
-        {
-            "time": "17:00",
-            "temperature": 26.3,
-            "condition": "Hujan lokal ringan",
-            "icon": "fa-cloud-sun-rain",
-            "rain_probability": 100,
-            "humidity": 90
-        },
-        {
-            "time": "18:00",
-            "temperature": 25.9,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 98,
-            "humidity": 92
-        },
-        {
-            "time": "19:00",
-            "temperature": 26.1,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 92,
-            "humidity": 93
-        },
-        {
-            "time": "20:00",
-            "temperature": 26.2,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 81,
-            "humidity": 95
-        },
-        {
-            "time": "21:00",
-            "temperature": 26.2,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 67,
-            "humidity": 96
-        },
-        {
-            "time": "22:00",
-            "temperature": 26.2,
+            "time": "23:00",
+            "temperature": 26.8,
             "condition": "Berawan",
             "icon": "fa-cloud",
-            "rain_probability": 55,
-            "humidity": 96
-        },
-        {
-            "time": "23:00",
-            "temperature": 25.4,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 46,
-            "humidity": 97
+            "rain_probability": 14,
+            "humidity": 92
         }
     ]
 }
