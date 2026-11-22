@@ -2,7 +2,21 @@
     "status": "success",
     "source": "BMKG",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "updated_at": "2026-11-23T00:42:15+07:00",
-    "has_alert": false,
-    "items": []
+    "updated_at": "2026-11-23T06:28:29+07:00",
+    "has_alert": true,
+    "items": [
+        {
+            "title": "Hujan Lebat disertai Petir di Jakarta",
+            "event": "Hujan Lebat dan Petir",
+            "description": "Hujan lebat disertai petir akan terjadi pada 23 November 2026, 05:30 WIB di sebagian wilayah Jakarta, khususnya di KOSAMBI, PAKUHAJI, TELUKNAGA.\n Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.\n Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.\n Kondisi diperkirakan dapat berlangsung hingga 23 November 2026, 06:30 WIB.",
+            "area": "Jakarta",
+            "effective": "2026-11-23T05:30:00+07:00",
+            "expires": "2026-11-23T06:30:00+07:00",
+            "severity": "Moderate",
+            "urgency": "Immediate",
+            "certainty": "Observed",
+            "source": "BMKG",
+            "source_url": "https://nowcasting.bmkg.go.id/infografis/CJK/2026/11/23/infografis.jpg"
+        }
+    ]
 }
