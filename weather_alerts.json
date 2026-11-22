@@ -2,7 +2,34 @@
     "status": "success",
     "source": "BMKG",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "updated_at": "2026-11-22T08:59:28+07:00",
-    "has_alert": false,
-    "items": []
+    "updated_at": "2026-11-22T16:40:26+07:00",
+    "has_alert": true,
+    "items": [
+        {
+            "title": "Hujan Lebat disertai Petir di Jakarta",
+            "event": "Hujan Lebat dan Petir",
+            "description": "Hujan lebat disertai petir akan terjadi pada 22 November 2026, 16:10 WIB di sebagian wilayah Jakarta, khususnya di BABAKAN MADANG, BOGOR UTARA, BOJONG GEDE, BOJONGSARI, CARIU, CIBINONG, CIGUDEG, CILODONG, CIMANGGIS, CIPAYUNG, CIRACAS, CISEENG, CITEUREUP, GUNUNG SINDUR, JONGGOL, KEMANG, KRAMATJATI, LIMO, MAKASAR, PANCORAN, PANCORAN MAS, PARUNG, PARUNG PANJANG, PASAR MINGGU, PASAR REBO, RANCA BUNGUR, RUMPIN, SAWANGAN, SUKAMAKMUR, SUKARAJA, SUKMAJAYA, TAJURHALANG, TANAH SAREAL, TANJUNGSARI, TAPOS.\n Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.\n Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.\n Kondisi diperkirakan dapat berlangsung hingga 22 November 2026, 18:00 WIB.",
+            "area": "Jakarta",
+            "effective": "2026-11-22T16:10:00+07:00",
+            "expires": "2026-11-22T18:00:00+07:00",
+            "severity": "Moderate",
+            "urgency": "Immediate",
+            "certainty": "Observed",
+            "source": "BMKG",
+            "source_url": "https://nowcasting.bmkg.go.id/infografis/CJK/2026/11/22/infografis.jpg"
+        },
+        {
+            "title": "Hujan Lebat disertai Petir di Bengkulu",
+            "event": "Hujan Lebat dan Petir",
+            "description": "Hujan lebat disertai petir akan terjadi pada 22 November 2026, 14:30 WIB di sebagian wilayah Bengkulu, khususnya di AIR BESI, AIR NIPIS, AIR PADANG, AIR RAMI, ARMA JAYA, BANG HAJI, BATIK NAU, BERMANI ILIR, GIRI MULYA, HULU PALIK, ILIR TALO, KAUR UTARA, KEDURANG, KERKAP, KETAHUN, KINAL, KOTA ARGA MAKMUR, MALIN DEMAN, MARGA SAKTI SEBELAT, MERIGI SAKTI, MUARA BANGKA HULU, MUARA KEMUMU, MUARA SAHUNG, NAPAL PUTIH, PADANG GUCI HILIR, PADANG GUCI HULU, PADANG JAYA, PEMATANG TIGA, PENARIK, PINANG BELAPIS, PINANG RAYA, PINO RAYA, PONDOK KELAPA, PONDOK KUBANG, PONDOK SUGUH, RATU AGUNG, RATU SAMBAN, SEBERANG MUSI, SELUMA, SELUMA SELATAN, SELUMA TIMUR, SELUMA UTARA, SEMIDANG ALAS, SEMIDANG ALAS MARAS, SUNGAI RUMBAI, SUNGAI SERUT, TABA PENANJUNG, TALANG EMPAT, TALO, TALO KECIL, TANJUNG AGUNG PALIK, TELUK SEGARA, TERAMANG JAYA, UJAN MAS, ULOK KUPAI, ULU MANNA, ULU TALO, URAM JAYA.\n Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.\n Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.\n Kondisi diperkirakan dapat berlangsung hingga 22 November 2026, 17:00 WIB.",
+            "area": "Bengkulu",
+            "effective": "2026-11-22T14:30:00+07:00",
+            "expires": "2026-11-22T17:00:00+07:00",
+            "severity": "Moderate",
+            "urgency": "Immediate",
+            "certainty": "Observed",
+            "source": "BMKG",
+            "source_url": "https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/22/infografis.jpg"
+        }
+    ]
 }
