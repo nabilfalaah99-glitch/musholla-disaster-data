@@ -1,10 +1,10 @@
 {
     "active": true,
     "status": "active",
-    "updated_at": "2026-11-21 09:02:48",
-    "last_checked_at": "2026-11-21 09:02:48",
+    "updated_at": "2026-11-24 08:36:15",
+    "last_checked_at": "2026-11-24 08:36:15",
     "discovery_hours": 504,
-    "total_videos": 9,
+    "total_videos": 11,
     "resolved_events": [],
     "items": [
         {
@@ -23,7 +23,7 @@
             "validated": true,
             "recovery_status": "ongoing",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-21 08:57:48"
+            "recovery_checked_at": "2026-11-24 08:34:33"
         },
         {
             "nama_bencana": "Gempa Bumi M 7,1 Maluku",
@@ -41,7 +41,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-17 15:51:04",
-            "recovery_checked_at": "2026-11-21 08:57:48"
+            "recovery_checked_at": "2026-11-24 08:34:33"
         },
         {
             "nama_bencana": "Gempa bumi",
@@ -57,9 +57,9 @@
             "thumbnail": "https://i.ytimg.com/vi/eAONGlvbSLQ/hqdefault.jpg",
             "published_at": "2026-08-15T01:13:29Z",
             "validated": true,
-            "recovery_status": "ongoing",
+            "recovery_status": "unknown",
             "added_at": "2026-11-18 15:51:18",
-            "recovery_checked_at": "2026-11-21 08:58:09"
+            "recovery_checked_at": "2026-11-24 08:34:50"
         },
         {
             "nama_bencana": "Erupsi gunung api",
@@ -75,9 +75,9 @@
             "thumbnail": "https://i.ytimg.com/vi/xXaPRmVlizY/hqdefault.jpg",
             "published_at": "2025-01-18T15:01:18Z",
             "validated": true,
-            "recovery_status": "unknown",
+            "recovery_status": "ongoing",
             "added_at": "2026-11-18 15:51:19",
-            "recovery_checked_at": "2026-11-21 08:58:09"
+            "recovery_checked_at": "2026-11-24 08:35:01"
         },
         {
             "nama_bencana": "Banjir",
@@ -93,9 +93,9 @@
             "thumbnail": "https://i.ytimg.com/vi/QtzRbRUx8mE/hqdefault.jpg",
             "published_at": "2022-11-04T08:12:26Z",
             "validated": true,
-            "recovery_status": "ongoing",
+            "recovery_status": "unknown",
             "added_at": "2026-11-18 15:51:19",
-            "recovery_checked_at": "2026-11-21 08:58:46"
+            "recovery_checked_at": "2026-11-24 08:35:16"
         },
         {
             "nama_bencana": "Erupsi Gunung Karangetang",
@@ -111,9 +111,9 @@
             "thumbnail": "https://i.ytimg.com/vi/duZJUszCF_I/hqdefault.jpg",
             "published_at": "2015-05-09T02:43:50Z",
             "validated": true,
-            "recovery_status": "unknown",
+            "recovery_status": "ongoing",
             "added_at": "2026-11-20 10:57:04",
-            "recovery_checked_at": "2026-11-21 09:00:26"
+            "recovery_checked_at": "2026-11-24 08:35:39"
         },
         {
             "nama_bencana": "Gempa Bumi Maluku Tenggara",
@@ -131,7 +131,7 @@
             "validated": true,
             "recovery_status": "unknown",
             "added_at": "2026-11-20 10:57:04",
-            "recovery_checked_at": "2026-11-21 09:02:47"
+            "recovery_checked_at": "2026-11-24 08:35:59"
         },
         {
             "nama_bencana": "Erupsi Gunung Ibu",
@@ -147,8 +147,9 @@
             "thumbnail": "https://i.ytimg.com/vi/ZenGl8zZz2w/hqdefault.jpg",
             "published_at": "2026-09-01T14:37:54Z",
             "validated": true,
-            "recovery_status": "unknown",
-            "added_at": "2026-11-21 09:02:48"
+            "recovery_status": "ongoing",
+            "added_at": "2026-11-21 09:02:48",
+            "recovery_checked_at": "2026-11-24 08:36:14"
         },
         {
             "nama_bencana": "Gempa Bumi M 5,3 Waropen",
@@ -165,7 +166,42 @@
             "published_at": "2021-01-07T08:47:34Z",
             "validated": true,
             "recovery_status": "unknown",
-            "added_at": "2026-11-21 09:02:48"
+            "added_at": "2026-11-21 09:02:48",
+            "recovery_checked_at": "2026-11-24 08:36:14"
+        },
+        {
+            "nama_bencana": "Longsor dan Banjir di Klungkung",
+            "lokasi": "Klungkung, Bali",
+            "kategori": "tanah longsor",
+            "ringkasan": "Hujan deras memicu bencana longsor dan banjir di wilayah Klungkung, Bali.",
+            "youtube_id": "A_pEA0q0q_w",
+            "video_id": "A_pEA0q0q_w",
+            "judul_video": "Bencana Alam, Banjir Dahsyat Menerjang di Tukad Unda, Klungkung, Bali, Indonesia. #longvideoviral",
+            "channel": "Just Kidsding",
+            "youtube_url": "https://www.youtube.com/watch?v=A_pEA0q0q_w",
+            "embed_url": "https://www.youtube-nocookie.com/embed/A_pEA0q0q_w",
+            "thumbnail": "https://i.ytimg.com/vi/A_pEA0q0q_w/hqdefault.jpg",
+            "published_at": "2023-07-07T13:23:52Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-24 08:36:15"
+        },
+        {
+            "nama_bencana": "Erupsi Gunung Lewotobi Laki-laki",
+            "lokasi": "Gunung Lewotobi Laki-laki",
+            "kategori": "erupsi gunung api",
+            "ringkasan": "Gunung Lewotobi Laki-laki kembali erupsi dan melontarkan abu vulkanik setinggi kurang lebih 400 meter.",
+            "youtube_id": "47EKVYMeRfQ",
+            "video_id": "47EKVYMeRfQ",
+            "judul_video": "Warga Flores Timur Panik Gunung Lewotobi Kembali Erupsi - [Metro Siang]",
+            "channel": "METRO TV",
+            "youtube_url": "https://www.youtube.com/watch?v=47EKVYMeRfQ",
+            "embed_url": "https://www.youtube-nocookie.com/embed/47EKVYMeRfQ",
+            "thumbnail": "https://i.ytimg.com/vi/47EKVYMeRfQ/hqdefault.jpg",
+            "published_at": "2026-08-27T05:00:42Z",
+            "validated": true,
+            "recovery_status": "unknown",
+            "added_at": "2026-11-24 08:36:15"
         }
     ]
 }
