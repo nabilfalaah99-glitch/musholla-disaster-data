@@ -2,21 +2,7 @@
     "status": "success",
     "source": "BMKG",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "updated_at": "2026-11-24T08:49:13+07:00",
-    "has_alert": true,
-    "items": [
-        {
-            "title": "Hujan Lebat disertai Petir di Bengkulu",
-            "event": "Hujan Lebat dan Petir",
-            "description": "Hujan lebat disertai petir akan terjadi pada 24 November 2026, 07:00 WIB di sebagian wilayah Bengkulu, khususnya di AIR PERIUKAN, ARMA JAYA, BERMANI ULU RAYA, BINDURIANG, GADING CEMPAKA, HULU PALIK, ILIR TALO, KAMPUNG MELAYU, KARANG TINGGI, KOTA ARGA MAKMUR, KOTA PADANG, LUBUK SANDI, MERIGI SAKTI, MUARA BANGKA HULU, MUARA KEMUMU, NAPAL PUTIH, PADANG ULAK TANDING, PAGAR JATI, PONDOK KELAPA, PONDOK KUBANG, RATU AGUNG, RATU SAMBAN, SELEBAR, SELUMA, SELUMA BARAT, SELUMA SELATAN, SELUMA TIMUR, SELUPU REJANG, SINDANG BELITI ILIR, SINDANG BELITI ULU, SINDANG DATARAN, SINDANG KELINGI, SINGARAN PATI, SUKARAJA, SUNGAI SERUT, TALANG EMPAT, TELUK SEGARA, TOPOS.\n Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.\n Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.\n Kondisi diperkirakan dapat berlangsung hingga 24 November 2026, 09:30 WIB.",
-            "area": "Bengkulu",
-            "effective": "2026-11-24T07:00:00+07:00",
-            "expires": "2026-11-24T09:30:00+07:00",
-            "severity": "Moderate",
-            "urgency": "Immediate",
-            "certainty": "Observed",
-            "source": "BMKG",
-            "source_url": "https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/24/infografis.jpg"
-        }
-    ]
+    "updated_at": "2026-11-24T19:15:17+07:00",
+    "has_alert": false,
+    "items": []
 }
