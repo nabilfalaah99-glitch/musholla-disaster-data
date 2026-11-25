@@ -2,48 +2,24 @@
     "status": "success",
     "source": "Open-Meteo",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "date": "2026-11-24",
-    "updated_at": "2026-11-24T19:15:15+07:00",
+    "date": "2026-11-25",
+    "updated_at": "2026-11-25T22:56:53+07:00",
     "items": [
         {
-            "time": "19:00",
-            "temperature": 25.8,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 96,
-            "humidity": 97
-        },
-        {
-            "time": "20:00",
-            "temperature": 25.9,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 82,
-            "humidity": 97
-        },
-        {
-            "time": "21:00",
-            "temperature": 26,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 64,
-            "humidity": 97
-        },
-        {
             "time": "22:00",
-            "temperature": 26,
-            "condition": "Gerimis ringan",
+            "temperature": 26.4,
+            "condition": "Gerimis",
             "icon": "fa-cloud-rain",
-            "rain_probability": 47,
-            "humidity": 97
+            "rain_probability": 80,
+            "humidity": 93
         },
         {
             "time": "23:00",
-            "temperature": 25.8,
+            "temperature": 25.9,
             "condition": "Gerimis ringan",
             "icon": "fa-cloud-rain",
-            "rain_probability": 33,
-            "humidity": 98
+            "rain_probability": 74,
+            "humidity": 93
         }
     ]
 }
