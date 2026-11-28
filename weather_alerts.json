@@ -2,21 +2,7 @@
     "status": "success",
     "source": "BMKG",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
-    "updated_at": "2026-11-28T18:31:52+07:00",
-    "has_alert": true,
-    "items": [
-        {
-            "title": "Hujan Lebat disertai Petir di Jakarta",
-            "event": "Hujan Lebat dan Petir",
-            "description": "Hujan lebat disertai petir akan terjadi pada 28 November 2026, 17:23 WIB di sebagian wilayah Jakarta, khususnya di BABAKAN MADANG, BATUCEPER, BENDA, BOGOR UTARA, CARIU, CENGKARENG, CIAMPEA, CIBODAS, CIBUNGBULANG, CIKUPA, CIPONDOH, CISARUA, CISOKA, CITEUREUP, CURUG, GUNUNG KALER, JAMBE, JASINGA, JATIUWUNG, JONGGOL, KALIDERES, KARAWACI, KEBAYORAN BARU, KEBAYORAN LAMA, KELAPA DUA, KEMIRI, KOSAMBI, KRESEK, KRONJO, LARANGAN, LEGOK, MAUK, MEGAMENDUNG, MEKAR BARU, NANGGUNG, NEGLASARI, PAKUHAJI, PANONGAN, PASAR KEMIS, PERIUK, PESANGGRAHAN, PONDOK AREN, RAJEG, SEPATAN, SEPATAN TIMUR, SINDANG JAYA, SOLEAR, SUKADIRI, SUKAMAKMUR, SUKARAJA, TANAH ABANG, TANGERANG, TANJUNGSARI, TELUKNAGA, TENJO, TIGARAKSA.\n Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.\n Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.\n Kondisi diperkirakan dapat berlangsung hingga 28 November 2026, 19:30 WIB.",
-            "area": "Jakarta",
-            "effective": "2026-11-28T17:23:00+07:00",
-            "expires": "2026-11-28T19:30:00+07:00",
-            "severity": "Moderate",
-            "urgency": "Immediate",
-            "certainty": "Observed",
-            "source": "BMKG",
-            "source_url": "https://nowcasting.bmkg.go.id/infografis/CJK/2026/11/28/infografis.jpg"
-        }
-    ]
+    "updated_at": "2026-11-29T02:47:33+07:00",
+    "has_alert": false,
+    "items": []
 }
