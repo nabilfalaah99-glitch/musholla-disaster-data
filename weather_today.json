@@ -3,103 +3,55 @@
     "source": "Open-Meteo",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
     "date": "2026-11-28",
-    "updated_at": "2026-11-28T09:53:54+07:00",
+    "updated_at": "2026-11-28T18:31:50+07:00",
     "items": [
         {
-            "time": "09:00",
-            "temperature": 30.2,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 16,
-            "humidity": 71
-        },
-        {
-            "time": "10:00",
-            "temperature": 30.6,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 24,
-            "humidity": 70
-        },
-        {
-            "time": "11:00",
-            "temperature": 29.9,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 44,
-            "humidity": 73
-        },
-        {
-            "time": "12:00",
-            "temperature": 28.8,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 72,
-            "humidity": 78
-        },
-        {
-            "time": "13:00",
-            "temperature": 28.6,
-            "condition": "Gerimis lebat",
-            "icon": "fa-cloud-showers-heavy",
-            "rain_probability": 92,
-            "humidity": 79
-        },
-        {
-            "time": "14:00",
-            "temperature": 29.6,
+            "time": "18:00",
+            "temperature": 26.8,
             "condition": "Gerimis ringan",
             "icon": "fa-cloud-rain",
-            "rain_probability": 100,
-            "humidity": 73
-        },
-        {
-            "time": "15:00",
-            "temperature": 27,
-            "condition": "Hujan lokal sedang",
-            "icon": "fa-cloud-showers-heavy",
-            "rain_probability": 100,
-            "humidity": 83
-        },
-        {
-            "time": "16:00",
-            "temperature": 26.5,
-            "condition": "Hujan lokal ringan",
-            "icon": "fa-cloud-sun-rain",
-            "rain_probability": 100,
+            "rain_probability": 99,
             "humidity": 89
         },
         {
-            "time": "17:00",
-            "temperature": 26.5,
-            "condition": "Hujan lokal ringan",
-            "icon": "fa-cloud-sun-rain",
-            "rain_probability": 100,
-            "humidity": 87
-        },
-        {
-            "time": "18:00",
-            "temperature": 26.2,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 98,
-            "humidity": 90
-        },
-        {
             "time": "19:00",
-            "temperature": 25.8,
-            "condition": "Gerimis",
-            "icon": "fa-cloud-rain",
+            "temperature": 26.8,
+            "condition": "Berawan",
+            "icon": "fa-cloud",
             "rain_probability": 92,
-            "humidity": 91
+            "humidity": 89
         },
         {
             "time": "20:00",
-            "temperature": 25.1,
-            "condition": "Gerimis lebat",
-            "icon": "fa-cloud-showers-heavy",
-            "rain_probability": 78,
-            "humidity": 96
+            "temperature": 26.7,
+            "condition": "Berawan",
+            "icon": "fa-cloud",
+            "rain_probability": 79,
+            "humidity": 90
+        },
+        {
+            "time": "21:00",
+            "temperature": 26.5,
+            "condition": "Gerimis ringan",
+            "icon": "fa-cloud-rain",
+            "rain_probability": 62,
+            "humidity": 90
+        },
+        {
+            "time": "22:00",
+            "temperature": 26.1,
+            "condition": "Gerimis ringan",
+            "icon": "fa-cloud-rain",
+            "rain_probability": 51,
+            "humidity": 91
+        },
+        {
+            "time": "23:00",
+            "temperature": 25.8,
+            "condition": "Gerimis ringan",
+            "icon": "fa-cloud-rain",
+            "rain_probability": 50,
+            "humidity": 91
         }
     ]
 }
