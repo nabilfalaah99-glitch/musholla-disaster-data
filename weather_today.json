@@ -3,103 +3,103 @@
     "source": "Open-Meteo",
     "location": "Menara Samawa, Pondok Kelapa, Jakarta Timur",
     "date": "2026-11-28",
-    "updated_at": "2026-11-28T03:11:58+07:00",
+    "updated_at": "2026-11-28T09:53:54+07:00",
     "items": [
         {
-            "time": "03:00",
-            "temperature": 25.2,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 52,
-            "humidity": 96
-        },
-        {
-            "time": "04:00",
-            "temperature": 25.2,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 45,
-            "humidity": 95
-        },
-        {
-            "time": "05:00",
-            "temperature": 25.2,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 33,
-            "humidity": 96
-        },
-        {
-            "time": "06:00",
-            "temperature": 25.4,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 19,
-            "humidity": 94
-        },
-        {
-            "time": "07:00",
-            "temperature": 26.6,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 10,
-            "humidity": 88
-        },
-        {
-            "time": "08:00",
-            "temperature": 28,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 6,
-            "humidity": 80
-        },
-        {
             "time": "09:00",
-            "temperature": 29,
-            "condition": "Berawan",
-            "icon": "fa-cloud",
-            "rain_probability": 7,
-            "humidity": 75
-        },
-        {
-            "time": "10:00",
-            "temperature": 30.3,
+            "temperature": 30.2,
             "condition": "Berawan",
             "icon": "fa-cloud",
             "rain_probability": 16,
             "humidity": 71
         },
         {
+            "time": "10:00",
+            "temperature": 30.6,
+            "condition": "Berawan",
+            "icon": "fa-cloud",
+            "rain_probability": 24,
+            "humidity": 70
+        },
+        {
             "time": "11:00",
-            "temperature": 29.6,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 38,
+            "temperature": 29.9,
+            "condition": "Berawan",
+            "icon": "fa-cloud",
+            "rain_probability": 44,
             "humidity": 73
         },
         {
             "time": "12:00",
-            "temperature": 28.4,
-            "condition": "Hujan lokal ringan",
-            "icon": "fa-cloud-sun-rain",
-            "rain_probability": 68,
+            "temperature": 28.8,
+            "condition": "Gerimis",
+            "icon": "fa-cloud-rain",
+            "rain_probability": 72,
             "humidity": 78
         },
         {
             "time": "13:00",
-            "temperature": 29,
-            "condition": "Gerimis ringan",
-            "icon": "fa-cloud-rain",
-            "rain_probability": 90,
-            "humidity": 77
+            "temperature": 28.6,
+            "condition": "Gerimis lebat",
+            "icon": "fa-cloud-showers-heavy",
+            "rain_probability": 92,
+            "humidity": 79
         },
         {
             "time": "14:00",
-            "temperature": 30,
+            "temperature": 29.6,
+            "condition": "Gerimis ringan",
+            "icon": "fa-cloud-rain",
+            "rain_probability": 100,
+            "humidity": 73
+        },
+        {
+            "time": "15:00",
+            "temperature": 27,
+            "condition": "Hujan lokal sedang",
+            "icon": "fa-cloud-showers-heavy",
+            "rain_probability": 100,
+            "humidity": 83
+        },
+        {
+            "time": "16:00",
+            "temperature": 26.5,
+            "condition": "Hujan lokal ringan",
+            "icon": "fa-cloud-sun-rain",
+            "rain_probability": 100,
+            "humidity": 89
+        },
+        {
+            "time": "17:00",
+            "temperature": 26.5,
+            "condition": "Hujan lokal ringan",
+            "icon": "fa-cloud-sun-rain",
+            "rain_probability": 100,
+            "humidity": 87
+        },
+        {
+            "time": "18:00",
+            "temperature": 26.2,
             "condition": "Gerimis",
             "icon": "fa-cloud-rain",
             "rain_probability": 98,
-            "humidity": 72
+            "humidity": 90
+        },
+        {
+            "time": "19:00",
+            "temperature": 25.8,
+            "condition": "Gerimis",
+            "icon": "fa-cloud-rain",
+            "rain_probability": 92,
+            "humidity": 91
+        },
+        {
+            "time": "20:00",
+            "temperature": 25.1,
+            "condition": "Gerimis lebat",
+            "icon": "fa-cloud-showers-heavy",
+            "rain_probability": 78,
+            "humidity": 96
         }
     ]
 }
